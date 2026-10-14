@@ -1,7 +1,7 @@
 # Simple PDF Sign — 100% Private Client-Side PDF Signing & Stamping
 
 <p align="center">
-  <img src="https://emaf205.com/github/assets/covers/SIMPLE-PDF-SIGN.jpg" alt="Simple PDF Sign Cover Artwork" width="100%">
+  <img src="assets/social-preview.jpg" alt="Simple PDF Sign Cover Artwork" width="100%">
 </p>
 
 > **Sign, stamp, and export PDF documents in seconds directly in your browser.**  
